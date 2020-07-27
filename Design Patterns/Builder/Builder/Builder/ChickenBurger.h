@@ -1,0 +1,17 @@
+//
+//  ChickenBurger.h
+//  Builder
+//
+//  Created by LGB on 2020/6/27.
+//  Copyright © 2020 LGB. All rights reserved.
+//
+
+#import "Burger.h"
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface ChickenBurger : Burger
+
+@end
+
+NS_ASSUME_NONNULL_END
