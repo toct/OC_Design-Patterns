@@ -35,6 +35,7 @@ int main(int argc, char * argv[]) {
     
     [controller updateView];
 
-    //toct-patch-1 git test;
+    //toct-patch-1 :git test -- 2;
     //toct-patch-2 git test;
+
 }
